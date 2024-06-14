@@ -1,0 +1,5 @@
+Due to the large size of the model file, you can access the model file from the following drive link:
+- model h5: https://drive.google.com/file/d/1_MeodMkee-Ja6IsajtOvVLmkHdM00QVD/view?usp=sharing 
+- model tflite: https://drive.google.com/file/d/1RcapS4XkARCiC23XfiOVZmSI3v6ow7js/view?usp=drive_link 
+- model json: https://drive.google.com/file/d/12hbTukAg5p43-TLZ_p4W5bviTe6j3pcZ/view?usp=drive_link 
+- model tfjs: https://drive.google.com/file/d/1eg0PlpGVxdijnBtsxEsmLuVxtoCKYW63/view?usp=drive_link 
