@@ -2,7 +2,7 @@ FROM node:20
 
 ENV NODE_ENV=production
 ENV PORT=8080
-ENV MODEL_URL='https://storage.googleapis.com/recyscan/model.json'
+ENV MODEL_URL='https://your-data-model-in-cloud-storage-bucket/model.json'
 
 COPY . .
 
