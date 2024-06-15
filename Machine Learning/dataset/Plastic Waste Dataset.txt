@@ -1,2 +1,0 @@
-Since the size of the plastic waste dataset file is large, you can access the file from the following drive link:
-https://drive.google.com/file/d/1CqTG86vwBkNF4IY8ZhrugucvSwIza6xC/view?usp=sharing
